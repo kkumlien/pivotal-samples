@@ -1,0 +1,12 @@
+create 'categories_dim', 'cf1'
+create 'customers_dim', 'cf1'
+create 'order_lineitems', 'cf1'
+create 'orders', 'cf1'
+create 'customer_addresses_dim', 'cf1'
+create 'date_dim', 'cf1'
+create 'email_addresses_dim', 'cf1'
+create 'payment_methods', 'cf1'
+create 'products_dim', 'cf1'
+
+list
+exit
